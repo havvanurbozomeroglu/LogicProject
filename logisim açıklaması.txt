@@ -1,0 +1,4 @@
+4 tane yolumuz var. Bu yolların sadece üçünde sensör(X3,X2,X1) bulunuyor.
+bu sensörler aktif olup olmamasına göre 7 durumumuz var. Logisimde hazırladığım 
+simülasyonda X1, X2 ve X3 inputlarını değiştirdikçe belirli durumlar ışığında ona 
+göre trafik ışıklarının yanması gereken renk yanıcaktır.
