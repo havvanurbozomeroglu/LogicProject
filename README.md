@@ -1,1 +1,1 @@
-[Dosyayı İndir]()
+[Dosyayı İndir](deneme/security.exe)
